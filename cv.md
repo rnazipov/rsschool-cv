@@ -8,7 +8,7 @@
 
 ## **About me**
 
-I'm 22 y.o. Currently I'm junior year student at [NSPI](https://ndpi.uz/).I'm majoring in English language and literature nowadays, but I want to try myself in different field. So I chose  **RS School** to learn Front End Development. I consider myself adaptable, responsible and fast learning person. I believe my hunger for knowledge will  help me  throughout my learning journey in **RS School**.
+I'm 22 y.o. Currently I'm junior year student at [NSPI](https://ndpi.uz/). I'm majoring in English language and literature nowadays, but I want to try myself in different field. So I chose  **RS School** to learn Front End Development. I consider myself adaptable, responsible and fast learning person. I believe my hunger for knowledge will  help me  throughout my learning journey in **RS School**.
 
 ## **Skills**
 
