@@ -14,7 +14,7 @@ I'm 22 y.o. Currently I'm junior year student at [NSPI](https://ndpi.uz/). I'm m
 
 * HTML (in progress)
 * CSS (in progress)
-* giJavascript (in progress)
+* Javascript (in progress)
 
 ## **Code example**
 
