@@ -12,9 +12,9 @@ I'm 22 y.o. Currently I'm junior year student at [NSPI](https://ndpi.uz/). I'm m
 
 ## **Skills**
 
-*HTML (in progress)
-*CSS (in progress)
-*Javascript (in progress)
+* HTML (in progress)
+* CSS (in progress)
+* Javascript (in progress)
 
 ## **Code example**
 
