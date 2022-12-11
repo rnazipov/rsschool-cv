@@ -14,7 +14,7 @@ I'm 22 y.o. Currently I'm junior year student at [NSPI](https://ndpi.uz/). I'm m
 
 * HTML (in progress)
 * CSS (in progress)
-* Javascript (in progress)
+* giJavascript (in progress)
 
 ## **Code example**
 
@@ -31,7 +31,7 @@ No experience
 
 ## **Languages**
 
-*English: C2 Proficient (according to [EF SET](https://www.efset.org/cert/3Pqv1j))
-*Uzbek: Native
-*Russian: Intermediate
-*German: Basic
+* English: C2 Proficient (according to [EF SET](https://www.efset.org/cert/3Pqv1j))
+* Uzbek: Native
+* Russian: Intermediate
+* German: Basic
