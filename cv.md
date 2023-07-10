@@ -4,7 +4,7 @@
 
 * **E-mail:** <ruslannazipovn@gmail.com>
 * **Phone:** +998912563767
-* **Telegram:** [@r_nazipov] (<https://t.me/r_nazipov>)
+* **Telegram:** [@r_nazipov](https://t.me/r_nazipov)
 
 ## **About me**
 
