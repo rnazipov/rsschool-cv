@@ -31,7 +31,7 @@ No experience
 
 ## **Languages**
 
-* English: C2 Proficient (according to [EF SET](https://www.efset.org/cert/BiYTzP))
+* English: C2 Proficient (according to [EF SET](https://www.efset.org/cert/BiYTzP)) and C1 (according to EPAM English test)
 * Uzbek: Native
 * Russian: Intermediate
 * German: Basic
